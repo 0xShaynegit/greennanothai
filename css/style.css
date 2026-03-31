@@ -232,6 +232,12 @@ a {
   flex-shrink: 0;
 }
 
+.nav__call {
+  display: none;
+  margin-left: var(--space-sm);
+  flex-shrink: 0;
+}
+
 .nav__toggle {
   display: none;
   flex-direction: column;
@@ -312,6 +318,10 @@ a {
 
   .nav__cta {
     display: none;
+  }
+
+  .nav__call {
+    display: flex;
   }
 
   /* Ensure menu links are properly spaced and readable on mobile */
