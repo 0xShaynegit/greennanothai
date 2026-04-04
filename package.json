@@ -1,0 +1,27 @@
+{
+  "name": "greennanothai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xShaynegit/grennanothai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/0xShaynegit/grennanothai/issues"
+  },
+  "homepage": "https://github.com/0xShaynegit/grennanothai#readme",
+  "devDependencies": {
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/merriweather": "^5.2.11",
+    "@fontsource/noto-sans-thai": "^5.2.8",
+    "@fontsource/space-grotesk": "^5.2.10"
+  }
+}
