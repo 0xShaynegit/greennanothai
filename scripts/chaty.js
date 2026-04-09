@@ -17,7 +17,7 @@
     {
       name: "Phone",
       label: "Call",
-      url: "tel:+6653430396",
+      url: "tel:+66959426955",
       color: "#6BA86F",
       svg: '<svg viewBox="0 0 39 39" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="19.4395" cy="19.4395" r="19.4395" fill="#6BA86F"/><rect x="12" y="10" width="15" height="20" rx="2" ry="2" stroke="white" stroke-width="1.5" fill="none"/><circle cx="19.5" cy="27" r="1" fill="white"/></svg>'
     },
