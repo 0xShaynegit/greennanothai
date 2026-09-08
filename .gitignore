@@ -91,3 +91,4 @@ wrangler.toml (if auto-generated)
 .eslintcache
 coverage/
 dist/
+manifest.json
